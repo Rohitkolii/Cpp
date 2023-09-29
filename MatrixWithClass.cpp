@@ -21,7 +21,7 @@ class matrix{
         for(i=0; i<2; i++){
             for(j=0; j<2; j++){
                 cout<<mat[i][j];
-            cout<<"\t";
+                cout<<"\t";
             }
             cout<<endl;
         }
@@ -37,7 +37,7 @@ class matrix{
             }
         }
         return mat3;
-    }
+    } 
 };
 
 int main(){
