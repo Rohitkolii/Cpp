@@ -1,1 +1,2 @@
-<< "Simple Interest is : "
+;
+    // obj3.output();
