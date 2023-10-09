@@ -63,7 +63,7 @@ class Array{
 };
 
 int main(){
-    Array obj1, obj2, obj3, rev,uni; 
+    Array obj1, obj2, obj3, rev, uni; 
 
     obj1.input();
     obj1.output();
